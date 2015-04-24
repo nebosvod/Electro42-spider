@@ -1,0 +1,21 @@
+c:\documents and settings\sa.ankovo\мои документы\visual studio 2010\Projects\spider_electro42\spider_electro42\bin\Debug\spider_electro42.exe
+c:\documents and settings\sa.ankovo\мои документы\visual studio 2010\Projects\spider_electro42\spider_electro42\bin\Debug\spider_electro42.pdb
+c:\documents and settings\sa.ankovo\мои документы\visual studio 2010\Projects\spider_electro42\spider_electro42\bin\Debug\MySql.Data.dll
+c:\documents and settings\sa.ankovo\мои документы\visual studio 2010\Projects\spider_electro42\spider_electro42\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\sa.ankovo\мои документы\visual studio 2010\Projects\spider_electro42\spider_electro42\obj\x86\Debug\spider_electro42.Form1.resources
+c:\documents and settings\sa.ankovo\мои документы\visual studio 2010\Projects\spider_electro42\spider_electro42\obj\x86\Debug\spider_electro42.Properties.Resources.resources
+c:\documents and settings\sa.ankovo\мои документы\visual studio 2010\Projects\spider_electro42\spider_electro42\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\sa.ankovo\мои документы\visual studio 2010\Projects\spider_electro42\spider_electro42\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\sa.ankovo\мои документы\visual studio 2010\Projects\spider_electro42\spider_electro42\obj\x86\Debug\spider_electro42.exe
+c:\documents and settings\sa.ankovo\мои документы\visual studio 2010\Projects\spider_electro42\spider_electro42\obj\x86\Debug\spider_electro42.pdb
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider_electro42\spider_electro42\obj\x86\Debug\spider_electro42.exe
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider_electro42\spider_electro42\obj\x86\Debug\spider_electro42.pdb
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider_electro42\spider_electro42\bin\Debug\spider_electro42.exe
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider_electro42\spider_electro42\bin\Debug\spider_electro42.pdb
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider_electro42\spider_electro42\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider_electro42\spider_electro42\obj\x86\Debug\spider_electro42.Form1.resources
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider_electro42\spider_electro42\obj\x86\Debug\spider_electro42.Properties.Resources.resources
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider_electro42\spider_electro42\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider_electro42\spider_electro42\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GIT\Electro42-spider\spider_electro42\obj\x86\Debug\spider_electro42.exe
+D:\GIT\Electro42-spider\spider_electro42\obj\x86\Debug\spider_electro42.pdb
